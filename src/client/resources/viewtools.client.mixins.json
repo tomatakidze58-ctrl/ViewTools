@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.viewtools.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "CameraMixin",
+    "KeyboardInputMixin",
+    "EntityLookMixin",
+    "MinecraftInteractionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
